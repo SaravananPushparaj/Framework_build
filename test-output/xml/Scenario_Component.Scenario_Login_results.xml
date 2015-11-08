@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RegSet1"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="70.210">
+  <properties />
+  
+  
+            <testcase name="testLogin" time="9.983" classname="Scenario_Component.Scenario_Login" />
+                <testcase name="testLogin" time="15.416" classname="Scenario_Component.Scenario_Login" />
+                <testcase name="testLogin" time="11.717" classname="Scenario_Component.Scenario_Login" />
+                <testcase name="testLogin" time="12.237" classname="Scenario_Component.Scenario_Login" />
+                <testcase name="testLogin" time="9.592" classname="Scenario_Component.Scenario_Login" />
+                <testcase name="testLogin" time="11.265" classname="Scenario_Component.Scenario_Login" />
+      
+</testsuite>

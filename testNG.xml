@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Octbatch" parallel="false">
+
+
+      <test name="RegSet1">
+      
+     <groups>
+      <run>
+
+     <include name="smoke"/>
+     <exclude name="regression"/>
+     
+      </run>
+      </groups>
+          
+  	 
+     <classes>
+            <class  name="Scenario_Component.Scenario_Login" />
+            <class  name="Scenario_Component.Scenario_Search" />
+       </classes>
+    </test>
+            
+   
+</suite>

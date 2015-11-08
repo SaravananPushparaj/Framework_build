@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Octbatch" duration-ms="23124" started-at="2015-11-08T02:26:40Z" finished-at="2015-11-08T02:27:03Z">
+    <groups>
+      <group name="smoke">
+        <method signature="Scenario_Login.testLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenario_Component.Scenario_Login@13a57a3b]" name="testLogin" class="Scenario_Component.Scenario_Login"/>
+        <method signature="Scenario_Search.testInvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenario_Component.Scenario_Search@531be3c5]" name="testInvalidSearch" class="Scenario_Component.Scenario_Search"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="RegSet1" duration-ms="23124" started-at="2015-11-08T02:26:40Z" finished-at="2015-11-08T02:27:03Z">
+      <class name="Scenario_Component.Scenario_Search">
+        <test-method status="PASS" signature="testInvalidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenario_Component.Scenario_Search@531be3c5]" name="testInvalidSearch" duration-ms="21845" started-at="2015-11-08T07:56:41Z" data-provider="dp_InvalidSearch" finished-at="2015-11-08T07:57:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_08]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bbsj54sfdds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sorry..'bbsj54sfdds' does not match any product on Rediff Books.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidSearch -->
+      </class> <!-- Scenario_Component.Scenario_Search -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- Octbatch -->
+</testng-results>

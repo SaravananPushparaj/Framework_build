@@ -1,0 +1,59 @@
+2015-10-31 13:06:01 INFO  Scenario_Login:22 - Executing the testcase GB_01  Order of  1.0
+2015-10-31 13:06:07 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:06:13 INFO  Scenario_Login:33 - Failed as Expected msg was Sorry we were unable to complete this step because Actual msg was   Sorry we were unable to complete this step because :
+2015-10-31 13:06:14 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:06:14 INFO  Scenario_Login:36 - ******************************************
+2015-10-31 13:09:30 INFO  Scenario_Login:22 - Executing the testcase GB_01  Order of  1.0
+2015-10-31 13:09:36 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:09:41 INFO  Scenario_Login:36 - Failed as Expected msg was Sorry we were unable to complete this step because Actual msg was   Sorry we were unable to complete this step because :
+2015-10-31 13:09:41 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:09:41 INFO  Scenario_Login:40 - ******************************************
+2015-10-31 13:10:44 INFO  Scenario_Login:22 - Executing the testcase GB_01  Order of  1.0
+2015-10-31 13:10:50 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:11:00 INFO  Scenario_Login:36 - Failed as Expected msg was Sorry we were unable to complete this step because Actual msg was   Sorry we were unable to complete this step because :
+2015-10-31 13:11:00 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:11:00 INFO  Scenario_Login:40 - ******************************************
+2015-10-31 13:11:34 INFO  Scenario_Login:22 - Executing the testcase GB_01  Order of  1.0
+2015-10-31 13:11:40 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:11:46 INFO  Scenario_Login:36 - Failed as Expected msg was Sorry we were unable to complete this step because Actual msg was   Sorry we were unable to complete this step because :
+2015-10-31 13:11:47 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:15:19 INFO  Scenario_Login:22 - Executing the testcase GB_01  Order of  1.0
+2015-10-31 13:15:25 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:15:32 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:15:32 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:15:32 INFO  Scenario_Login:41 - ******************************************
+2015-10-31 13:15:32 INFO  Scenario_Login:22 - Executing the testcase GB_02  Order of  1.0
+2015-10-31 13:15:36 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:15:43 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:15:43 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:15:43 INFO  Scenario_Login:41 - ******************************************
+2015-10-31 13:15:43 INFO  Scenario_Login:22 - Executing the testcase GB_03  Order of  1.0
+2015-10-31 13:15:48 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:15:53 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:15:54 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:15:54 INFO  Scenario_Login:41 - ******************************************
+2015-10-31 13:15:54 INFO  Scenario_Login:22 - Executing the testcase GB_04  Order of  1.0
+2015-10-31 13:15:58 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:16:10 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:16:11 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:16:11 INFO  Scenario_Login:41 - ******************************************
+2015-10-31 13:16:11 INFO  Scenario_Login:22 - Executing the testcase GB_05  Order of  1.0
+2015-10-31 13:16:15 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:16:25 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:16:25 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:16:25 INFO  Scenario_Login:41 - ******************************************
+2015-10-31 13:16:25 INFO  Scenario_Login:22 - Executing the testcase GB_06  Order of  1.0
+2015-10-31 13:16:29 INFO  Base_Class:23 - Intialized the browser in Firefox
+2015-10-31 13:16:37 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:16:37 INFO  Base_Class:36 - Closed the Browser
+2015-10-31 13:16:37 INFO  Scenario_Login:41 - ******************************************
+2015-10-31 13:25:32 INFO  Scenario_Login:22 - Executing the testcase GB_01  Order of  1.0
+2015-10-31 13:25:37 INFO  Base_Class:34 - Intialized the browser in Chrome
+2015-10-31 13:25:42 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:25:43 INFO  Base_Class:58 - Closed the Browser
+2015-10-31 13:25:43 INFO  Scenario_Login:41 - ******************************************
+2015-10-31 13:25:43 INFO  Scenario_Login:22 - Executing the testcase GB_02  Order of  1.0
+2015-10-31 13:25:45 INFO  Base_Class:34 - Intialized the browser in Chrome
+2015-10-31 13:25:55 INFO  Scenario_Login:32 - Passed as Expected msg was Valid
+2015-10-31 13:25:56 INFO  Base_Class:58 - Closed the Browser
+2015-10-31 13:25:56 INFO  Scenario_Login:41 - ******************************************
